@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmlcep>
-  <cep>72150-615</cep>
-  <logradouro>QNL 5 Bloco E</logradouro>
-  <complemento></complemento>
-  <bairro>Taguatinga Norte (Taguatinga)</bairro>
-  <localidade>Brasília</localidade>
-  <uf>DF</uf>
-  <ibge>5300108</ibge>
-  <gia></gia>
-  <ddd>61</ddd>
-  <siafi>9701</siafi>
+<cep>29656-980</cep>
+<logradouro>Rua José Delepranni</logradouro>
+<complemento>s/n</complemento>
+<bairro>Alto Caldeirão</bairro>
+<localidade>Santa Teresa</localidade>
+<uf>ES</uf>
+<ibge>3204609</ibge>
+<gia/>
+<ddd>27</ddd>
+<siafi>5691</siafi>
 </xmlcep>
